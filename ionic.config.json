@@ -1,0 +1,7 @@
+{
+  "name": "local-notification",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
