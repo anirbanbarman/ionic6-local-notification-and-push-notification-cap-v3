@@ -1,6 +1,14 @@
 {
-	"appId": "io.ionic.starter",
+	"appId": "com.titun.anirban",
 	"appName": "local-notification",
 	"webDir": "www",
-	"bundledWebRuntime": false
+	"bundledWebRuntime": false,
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_notifications",
+      "iconColor": "#488AFF",
+      "sound": "notification.mp3"
+    }
+  }
+
 }
